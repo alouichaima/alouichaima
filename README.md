@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Java & Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2E8B57&size=24&center=true&vCenter=true&width=500&lines=Passionate+about+Software+Engineering;Building+Scalable+Microservices;Expert+in+Spring+Boot+%26+Angular;Flutter+Mobile+Developer;Agile+%26+DevOps+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=2E8B57&size=24&center=true&vCenter=true&width=500&lines=Passionate+about+Software+Engineering;Building+Scalable+Microservices;+Spring+Boot+%26+Angular;Flutter+Mobile+Developer;Agile+%26+DevOps+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
