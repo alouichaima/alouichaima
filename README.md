@@ -55,11 +55,11 @@ Sept 2019 – Juin 2022
 
 ### 🤝 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/aloui-chaima" target="_blank">
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/assets/linkedin.svg" width="40" alt="LinkedIn">
+  <a href="https://linkedin.com/in/aloui-chaima" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:alouichaima.77@gmail.com">
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/assets/email.svg" width="40" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-%23E44A00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
