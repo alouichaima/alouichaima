@@ -39,7 +39,6 @@
 ### 🌱 Currently Learning
 - ✅ Advanced DevOps: CI/CD, Kubernetes
 - ✅ System Design & Microservices Architecture
-- ✅ Next.js & TypeScript for full-stack versatility
 
 ---
 
