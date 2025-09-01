@@ -9,7 +9,7 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,flutter,js,nodejs,express,mongodb,postgresql,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,flutter,js,nodejs,mongodb,postgresql,git,github,docker" />
 </p>
 
 ---
