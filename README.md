@@ -34,11 +34,6 @@
 - 🐾 **Pet Care Management (TEKUP)**  
   Application avec chatbot médical, notifications de rappel vaccinal (Flutter + Firebase).
 
----
-
-### 🌱 Currently Learning
-- ✅ Advanced DevOps: CI/CD, Kubernetes
-- ✅ System Design & Microservices Architecture
 
 ---
 
